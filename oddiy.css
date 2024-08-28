@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.oddiy{
+    width: 1500px;
+    height: 100px;
+    background-color: rgb(54, 52, 52);  
+    margin: auto; 
+}
+.oddiy1{
+    width: 1500px;
+    height: 50px;
+    background-color: rgb(102, 99, 99);
+    margin: auto;
+}
+.kattarasm{
+    width: 650px;
+    height: 250px;
+    border: 1px solid black;
+    margin: auto;
+}
+.kichikrasm1{
+    width: 200px;
+    height: 230px;
+    border: 1px solid black;
+    margin-left: 5px;
+    margin-top: 10px;
+    display: flex;
+}
+.kichikrasm2{
+    width: 200px;
+    height: 230px;
+    border: 1px solid black;
+    margin-left: 220px;
+    margin-top: -230px;
+    
+}
+.kichikrasm3{
+    width: 200px;
+    height: 230px;
+    border: 1px solid black;
+    margin-left: 440px;
+    margin-top: -230px;
+    
+}
+.kattarasm1{
+    width: 650px;
+    height: 250px;
+    border: 1px solid black;
+    margin: auto;
+}
+.kichikrasm4{
+    width: 200px;
+    height: 230px;
+    border: 1px solid black;
+    margin-left: 5px;
+    margin-top: 10px;
+    display: flex;
+}
+.kichikrasm5{
+    width: 200px;
+    height: 230px;
+    border: 1px solid black;
+    margin-left: 220px;
+    margin-top: -230px;
+    
+}
+.kichikrasm6{
+    width: 200px;
+    height: 230px;
+    border: 1px solid black;
+    margin-left: 440px;
+    margin-top: -230px;
+    
+}
+.tortburchak{
+    width: 1500px;
+    height: 50px;
+    background-color: grey;
+    margin: auto;
+}
